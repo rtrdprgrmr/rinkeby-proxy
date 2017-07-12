@@ -6,7 +6,8 @@
   "license": "MIT",
   "keywords": [],
   "engines": {
-    "node": ">= 6.0.0"
+    "node": ">= 4.0.0",
+	"npm": ">= 1.0.0"
   },
   "main": "index.js",
   "dependencies": {},
