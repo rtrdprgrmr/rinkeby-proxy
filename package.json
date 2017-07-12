@@ -1,0 +1,15 @@
+{
+  "name": "rinkeby-proxy",
+  "version": "0.0.1",
+  "description": "rinkeby proxy",
+  "author": "<rtrdprgrmr@yahoo.co.jp>",
+  "license": "MIT",
+  "keywords": [],
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {}
+}
